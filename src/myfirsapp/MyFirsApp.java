@@ -16,7 +16,9 @@ public class MyFirsApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        System.out.println("นายสุระเดช สีนวล");
+        System.out.println("คณะ เทคโนโลยีสารสนเทศและการสื่อสาร");
+        System.out.println("สาขา เทคโนโลยีคอมพิวเตอร์เคลื่อนที่");
     }
     
 }
